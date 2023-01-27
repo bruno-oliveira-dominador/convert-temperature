@@ -1,4 +1,3 @@
-# convert-temperature
 Temperature conversion project
 
 About the project
